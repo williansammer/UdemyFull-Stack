@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a2Gb71PtxppkW0m728beaScCZTnPiB3qkNb9kM0NfbOJpr/degI9eTUZwMptPN6zPQi37eK4Empe2QymY/SIrw==",
+  "dgSpecHash": "bLsJhHjaI7ABR/3tmETzSR0RMT/wWWH0QqPyoswZDPkSXuVH05smlrDi7z1PbcA6LXEWxU4uTfMAR0wIgXOp4Q==",
   "success": true,
-  "projectFilePath": "D:\\Programacao .net\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "D:\\Programacao .net\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willian Sammer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Willian Sammer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
