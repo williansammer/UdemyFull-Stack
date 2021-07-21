@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Programacao .net\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "d:\\Programacao .net\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\Willian Sammer\\.nuget\\packages\\",
-      "outputPath": "d:\\Programacao .net\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willian Sammer\\AppData\\Roaming\\NuGet\\NuGet.Config"

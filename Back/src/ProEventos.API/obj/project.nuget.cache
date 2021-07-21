@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vyyx2kWca2vpt8X+D8ip0RAR3F/pYL+yUTDwKE7Gg/TnylR1R7FEAZvVB2iivTuFAdgk90eon71OQjBK+rBBYA==",
+  "dgSpecHash": "Ap7YrdfQUBbAvKEIHGLtCD/+4xhK8kifoqbIrK5ckwSejgICMltRPPHk/9TuWI+S6+cCLEMhZzhTPsGS/3nnZw==",
   "success": true,
-  "projectFilePath": "D:\\Programacao .net\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willian Sammer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Willian Sammer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
