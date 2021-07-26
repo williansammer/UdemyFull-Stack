@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\ProgramacaoNet\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\ProgramacaoNet\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\ProgramacaoNet\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\Willian Sammer\\.nuget\\packages\\",
-        "outputPath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\ProgramacaoNet\\UdemyFull-Stack\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willian Sammer\\AppData\\Roaming\\NuGet\\NuGet.Config"
