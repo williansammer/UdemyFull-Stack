@@ -112,3 +112,9 @@ C:\ProgramacaoNet\UdemyFull-Stack\back\src\ProEventos.API\obj\Debug\net5.0\ProEv
 C:\ProgramacaoNet\UdemyFull-Stack\back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\ProgramacaoNet\UdemyFull-Stack\back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\ProgramacaoNet\UdemyFull-Stack\back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb

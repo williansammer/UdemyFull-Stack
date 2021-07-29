@@ -1,0 +1,17 @@
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csprojAssemblyReference.cache
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\ProgramacaoNet\UdemyFull-Stack\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
