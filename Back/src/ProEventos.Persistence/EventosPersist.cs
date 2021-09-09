@@ -14,6 +14,8 @@ namespace ProEventos.Persistence
         public EventosPersist(ProEventosContext proEventosContext)
         {
             this._proEventosContext = proEventosContext;
+            //ou usar AsNoTracking para nao segurar objeto em cada método
+            this._proEventosContext.ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
         }
         
 
@@ -57,7 +59,8 @@ namespace ProEventos.Persistence
             {
                 query = query.Include(e => e.PalestranteEventos).ThenInclude(p => p.Palestrante);
             }
-
+            //ou usar AsNoTracking para nao segurar objeto
+            // query = query.AsNoTracking().OrderBy(e => e.Id).Where(e => e.Id.Equals(EventooId));
             query = query.OrderBy(e => e.Id).Where(e => e.Id.Equals(EventooId));
 
             return await query.FirstOrDefaultAsync();
